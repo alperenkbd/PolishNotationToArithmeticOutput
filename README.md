@@ -5,7 +5,7 @@ The output is “156” for at above example.
 
   ![image](https://user-images.githubusercontent.com/51248556/113491705-503f3380-94db-11eb-9b5b-ac9bf95295ff.png)  
     
-  ## BUILD WİTH
+  ## BUILD WITH
   - Windows desktop apps  
   
 ## LICENSE
